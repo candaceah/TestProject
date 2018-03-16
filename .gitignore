@@ -267,6 +267,8 @@ bin/
 */bin
 /FolderinRepo
 FolderinRepo/*
+FolderToIgnore/*
+
 /App_Config
 App_Config/
 */App_Config/
