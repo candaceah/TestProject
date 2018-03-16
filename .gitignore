@@ -282,3 +282,4 @@ Views/
 obj/
 */obj/
 packages/
+*.config
