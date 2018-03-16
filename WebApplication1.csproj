@@ -87,6 +87,7 @@
     <Compile Include="classnottobecommitted.cs" />
     <Compile Include="FolderinRepo\Class1.cs" />
     <Compile Include="FolderinRepo\Class2.cs" />
+    <Compile Include="FolderToIgnore\Class1.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
