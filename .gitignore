@@ -265,8 +265,12 @@ sitecore modules/Web/ExperienceExplorer/
 temp/
 bin/
 */bin/
+/App_Config
 App_Config/
 */App_Config/
+App_Config/*
+/Models
+Models/*
 App_Data/
 Areas/
 Views/
