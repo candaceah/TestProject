@@ -264,7 +264,9 @@ App_Data/MediaCache/website/
 sitecore modules/Web/ExperienceExplorer/
 temp/
 bin/
-*/bin/
+*/bin
+/FolderinRepo
+FolderinRepo/*
 /App_Config
 App_Config/
 */App_Config/
