@@ -10,5 +10,6 @@ namespace WebApplication1
         string candace = "";
         string nick = "";
         string Kirby = "";
+        string Skip = "";
     }
 }
